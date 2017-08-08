@@ -1,0 +1,11 @@
+C:\Users\jukotali\source\repos\CookieMaxAge\CookieMaxAge\bin\Debug\netcoreapp2.0\CookieMaxAge.deps.json
+C:\Users\jukotali\source\repos\CookieMaxAge\CookieMaxAge\bin\Debug\netcoreapp2.0\CookieMaxAge.runtimeconfig.json
+C:\Users\jukotali\source\repos\CookieMaxAge\CookieMaxAge\bin\Debug\netcoreapp2.0\CookieMaxAge.runtimeconfig.dev.json
+C:\Users\jukotali\source\repos\CookieMaxAge\CookieMaxAge\bin\Debug\netcoreapp2.0\CookieMaxAge.dll
+C:\Users\jukotali\source\repos\CookieMaxAge\CookieMaxAge\bin\Debug\netcoreapp2.0\CookieMaxAge.pdb
+C:\Users\jukotali\source\repos\CookieMaxAge\CookieMaxAge\obj\Debug\netcoreapp2.0\CookieMaxAge.csprojResolveAssemblyReference.cache
+C:\Users\jukotali\source\repos\CookieMaxAge\CookieMaxAge\obj\Debug\netcoreapp2.0\CookieMaxAge.csproj.CoreCompileInputs.cache
+C:\Users\jukotali\source\repos\CookieMaxAge\CookieMaxAge\obj\Debug\netcoreapp2.0\CookieMaxAge.AssemblyInfoInputs.cache
+C:\Users\jukotali\source\repos\CookieMaxAge\CookieMaxAge\obj\Debug\netcoreapp2.0\CookieMaxAge.AssemblyInfo.cs
+C:\Users\jukotali\source\repos\CookieMaxAge\CookieMaxAge\obj\Debug\netcoreapp2.0\CookieMaxAge.dll
+C:\Users\jukotali\source\repos\CookieMaxAge\CookieMaxAge\obj\Debug\netcoreapp2.0\CookieMaxAge.pdb
